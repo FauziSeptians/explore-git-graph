@@ -1,6 +1,6 @@
 
 export default function User() {
   return (
-    <div>INI User</div>
+    <div>INI User fix bug ceritanya</div>
   );
 }
